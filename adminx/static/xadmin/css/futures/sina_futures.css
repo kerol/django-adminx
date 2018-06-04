@@ -1,0 +1,49 @@
+/*
+	msic style
+----------------*/
+ol,ul,ol li,ul li{list-style:none;}
+i{visibility:hidden;font-size:0;}
+.light-orange{color:#FF5A00;}
+.green{color:green;}
+.red,
+.require{color:red;padding:0 2px;}
+.orange{color:#DA0000;}
+.gray{color:#828282;}
+.light-blue{color:#1F91D1;}
+.text-center{text-align:center;}
+.vertical-top{vertical-align:top;}
+.text-right{text-align:right;}
+.text-left{text-align:left;}
+.hidden{visibility:hidden;}
+.float-right{float:right;}
+.float-left{float:left;}
+
+/*
+	basic table style
+---------------------------*/
+.table{}
+.table th,
+.table td{text-align:center;padding:5px 0;color:#005CBF;}
+.table thead th{background:none;border-bottom:1px solid #cee4f2;}
+.table thead th:first-child{border-left:1px solid #fff;}
+.table thead th:last-child{border-right:1px solid #fff;}
+.table thead th.first{border-left:1px solid #fff;}
+.table thead th.last{border-right:1px solid #fff;}
+.table tbody tr td{background-color:#fff;}
+.table tbody tr.odd td{background-color:#f9fafc;}
+
+.table .red td{color:red;}
+.table .green td{color:green;}
+.table .gray td{color:gray;}
+
+
+/*
+	right style
+----------------*/
+#box-futures-hq-wrap{*zoom:1;margin:10px 0;}
+#table-box-futures-hq th{text-align:right;padding:3px 0 3px 5px;}
+#table-box-futures-hq td{text-align:left;padding:3px;}
+#table-box-futures-hq th{color:#000;}
+#table-box-futures-hq .red{color:red;}
+#table-box-futures-hq .green{color:green;}
+#table-box-futures-hq .gray{color:gray;}
