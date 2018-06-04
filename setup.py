@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="django-adminx",
-    version="2.0.1",
+    version="2.0.2",
     author="kerol",
     author_email="ikerol@163.com",
     description="django extended admin",
